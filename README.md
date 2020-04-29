@@ -1,2 +1,2 @@
-# Cheatsheet
-cheatsheet
+# SQL
+# Math
